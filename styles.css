@@ -21,11 +21,13 @@ h1 {
 
 .results {
   display: grid;
-  gap: 50px;
+  gap: 10px;
 }
 
 .results h1 {
   text-align: start;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .loader {
